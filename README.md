@@ -1,4 +1,4 @@
-** NOMBRE DEL PROYECTO ** 
+** Clasificación de clientes por patrones de compra ** 
 
 El objetivo principal del proyecto es segmentar la base de clientes de la empresa Mercantil Zafiro basado en patrones de compra generados por los históricas de venta del año 2022, siendo esto posible gracias a la frecuencia con la que un mismo cliente puede llegar a realizar un pedido y la amplia base de usuarios. Esta clasificación de clientes podrá ser utilizada por la compañía para el diseño y despliegue de estrategias comerciales que contribuyan al mejoramiento del servicio prestado por la empresa, aumento de la competitividad y el incremento de las ventas.
 
