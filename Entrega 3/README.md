@@ -8,7 +8,7 @@ Segmentar clientes en función de históricos de compra en 5 categorías diferen
 ## Instrucción para la preparación de datos
 
 1. Abrir el notebook en Google Colaboratory llamado PreparaciónDatasetVentas2022_zafiro.py
-2. El archivo .XLSX llamado Zafiro_2022 ya se encuentra cargado en GitHub por lo tanto no deberá ser cargado, en caso de algún inconveniente descargarlo y volverlo a cargar.
+2. El archivo .CSV llamado Zafiro_2022 ya se encuentra cargado en GitHub por lo tanto no deberá ser cargado, en caso de algún inconveniente descargarlo y volverlo a cargar.
 3. Cargar la función llamada funciones.py la cual también se encuentra cargada en GitHub. 
 
 ## Instrucciones para la ejecución del modelo
