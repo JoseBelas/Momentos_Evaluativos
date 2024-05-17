@@ -16,5 +16,3 @@ Segmentar clientes en función de históricos de compra en 5 categorías diferen
 1. Abrir el notebook en Google Colaboratory llamado KMEANS(CLUSTERIZACION).py
 2. El archivo llamado 01_ventas_2022_zafiro_Prep.csv ya se encuentra cargado en GitHub por lo tanto no deberá ser cargado, en caso de algún inconveniente descargarlo y volverlo a cargar.
 3. Cargar la función llamada funciones.py la cual también se encuentra cargada en GitHub. 
-
-Nota: La base de datos que tendrá de base el modelo estará cargada en Drive cuando usted realice la carga, con los debidos permisos, por lo tanto no deberá generarle ningún inconveniente.
